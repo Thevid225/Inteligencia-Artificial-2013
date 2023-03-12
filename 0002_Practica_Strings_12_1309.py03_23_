@@ -1,0 +1,5 @@
+#Ejercicio
+
+frase = '"print()"se utilizar para imprimir valores en la consola' #Se declara el primer string
+frase2 = "Esta se escribio con doble comilla"  #Se declara el segundo string
+print(frase,"\n",frase2)  #Se imprimen las dos frases
